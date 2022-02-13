@@ -1,0 +1,78 @@
+{
+  "name": "Battle Katz #629",
+  "symbol": "BKATZ",
+  "description": "BattleKatz is a collection of 1000 unique NFTs. Every BattleKatz has had it’s own experience with shedding one of its 9 lives and refining its Fighting skills. It’s not easy being a BattleKat, but someone’s gotta do it.",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/robbie0202/upload-nfts-new-img/main/Wastelanderz_Kat2.png",
+  "external_url": "https://www.battlekatz.net/",
+  "edition": 629,
+  "collection": {
+    "name": "BattleKatz",
+    "family": "Amazing NTFS"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "1 of 1"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "1 of 1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "1 of 1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "1 of 1"
+    },
+    {
+      "trait_type": "Armor Bottom",
+      "value": "1 of 1"
+    },
+    {
+      "trait_type": "Armor Top",
+      "value": "1 of 1"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "1 of 1"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "1 of 1"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Resistance"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/jwnGEz-9WbWCqlFA3zBgouDztjYI1tnfFog3RrF_Rzw?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "DUunFkZrk2VTrr18swXTcDEbr9gruu1czErkA7Rb88gR",
+        "share": 100
+      }
+    ]
+  },
+  "status": [
+    {
+      "name": "Secondary Market",
+      "value": 1,
+      "type": "primarySaleHappened"
+    },
+    {
+      "name": "Mutable",
+      "value": 1,
+      "type": "primarySaleHappened"
+    }
+  ]
+}
